@@ -1,0 +1,1 @@
+All these checkpoints contain how I started programming and how my love for programming has grown in recent years. I love building software applications!
